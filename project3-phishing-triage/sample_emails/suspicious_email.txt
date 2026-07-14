@@ -1,0 +1,13 @@
+From: IT Security <support@decodelabs-secure-login.com>
+To: aspy@decodelabs.tech
+Subject: Mandatory: Password expires in 24 hrs
+
+Your DecodeLabs account password will expire in 24 hours. To avoid
+losing access, please verify your credentials immediately using the
+link below.
+
+Verify Now: http://decodelabs.tech.login-update.com/verify
+
+If you do not act within 24 hours your account will be locked.
+
+IT Security Team
